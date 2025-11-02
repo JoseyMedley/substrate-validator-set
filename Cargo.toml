@@ -9,59 +9,59 @@ repository = 'https://github.com/gautamdhameja/substrate-validator-set'
 [dependencies.sp-core]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'release-crates-io-v1.13.0'
+branch = 'stable2506'
 
 [dependencies.sp-io]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'release-crates-io-v1.13.0'
+branch = 'stable2506'
 
 [dependencies.sp-runtime]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'release-crates-io-v1.13.0'
+branch = 'stable2506'
 
 [dependencies.sp-std]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'release-crates-io-v1.13.0'
+branch = 'stable2506'
 
 [dependencies.sp-staking]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'release-crates-io-v1.13.0'
+branch = 'stable2506'
 
 [dependencies.frame-benchmarking]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
 optional = true
-branch = 'release-crates-io-v1.13.0'
+branch = 'stable2506'
 
 [dependencies.frame-support]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'release-crates-io-v1.13.0'
+branch = 'stable2506'
 
 [dependencies.frame-system]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'release-crates-io-v1.13.0'
+branch = 'stable2506'
 
 [dependencies.pallet-session]
 default-features = false
 features = ['historical']
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'release-crates-io-v1.13.0'
+branch = 'stable2506'
 
 [dependencies.sp-weights]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'release-crates-io-v1.13.0'
+branch = 'stable2506'
 
 [dev-dependencies.sp-state-machine]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'release-crates-io-v1.13.0'
+branch = 'stable2506'
 
 [dependencies.scale-info]
 default-features = false
@@ -80,7 +80,7 @@ version = '3.6.12'
 
 [dev-dependencies.serde]
 features = ['derive']
-version = '1.0.197'
+version = '1.0.214'
 
 [features]
 default = ['std']
