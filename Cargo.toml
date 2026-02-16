@@ -9,59 +9,59 @@ repository = 'https://github.com/gautamdhameja/substrate-validator-set'
 [dependencies.sp-core]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'stable2506'
+branch = 'stable2512'
 
 [dependencies.sp-io]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'stable2506'
+branch = 'stable2512'
 
 [dependencies.sp-runtime]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'stable2506'
+branch = 'stable2512'
 
 [dependencies.sp-std]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'stable2506'
+branch = 'stable2512'
 
 [dependencies.sp-staking]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'stable2506'
+branch = 'stable2512'
 
 [dependencies.frame-benchmarking]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
 optional = true
-branch = 'stable2506'
+branch = 'stable2512'
 
 [dependencies.frame-support]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'stable2506'
+branch = 'stable2512'
 
 [dependencies.frame-system]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'stable2506'
+branch = 'stable2512'
 
 [dependencies.pallet-session]
 default-features = false
 features = ['historical']
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'stable2506'
+branch = 'stable2512'
 
 [dependencies.sp-weights]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'stable2506'
+branch = 'stable2512'
 
 [dev-dependencies.sp-state-machine]
 default-features = false
 git = 'https://github.com/paritytech/polkadot-sdk.git'
-branch = 'stable2506'
+branch = 'stable2512'
 
 [dependencies.scale-info]
 default-features = false
